@@ -8,4 +8,7 @@ Use scripts in data preparation and save .npy files using csv_to_npy.py
 tcrp_train.py was used as the main training script
 
 ## Figure generation
-Use script in 
+Use scripts in results analysis
+
+## Preprocessed data
+cell line data and PDX data were included
